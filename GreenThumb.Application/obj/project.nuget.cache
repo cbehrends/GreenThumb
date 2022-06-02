@@ -1,8 +1,26 @@
 {
   "version": 2,
-  "dgSpecHash": "PshkoecFuKq1donOLjjGBi5Tuge5631cGCJ9s6yBiaEct90KpGc4aWp6BtlaJZlgzIUC82jRPUYicY4yT01A0Q==",
+  "dgSpecHash": "CzT5w8IHq8bCKLFRErYm2mOJNSLiZnoUgQOa0bb7X+Gc24tq2i0399InBFO1k1B/E1F4D1GzNhypJQfe6L5nNg==",
   "success": true,
   "projectFilePath": "/Users/cbehrends/Projects/Training/GreenThumb.Application/GreenThumb.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/cbehrends/.nuget/packages/fluentvalidation/11.0.2/fluentvalidation.11.0.2.nupkg.sha512",
+    "/Users/cbehrends/.nuget/packages/mediatr/10.0.1/mediatr.10.0.1.nupkg.sha512",
+    "/Users/cbehrends/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/cbehrends/.nuget/packages/microsoft.entityframeworkcore/5.0.17/microsoft.entityframeworkcore.5.0.17.nupkg.sha512",
+    "/Users/cbehrends/.nuget/packages/microsoft.entityframeworkcore.abstractions/5.0.17/microsoft.entityframeworkcore.abstractions.5.0.17.nupkg.sha512",
+    "/Users/cbehrends/.nuget/packages/microsoft.entityframeworkcore.analyzers/5.0.17/microsoft.entityframeworkcore.analyzers.5.0.17.nupkg.sha512",
+    "/Users/cbehrends/.nuget/packages/microsoft.extensions.caching.abstractions/5.0.0/microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
+    "/Users/cbehrends/.nuget/packages/microsoft.extensions.caching.memory/5.0.0/microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
+    "/Users/cbehrends/.nuget/packages/microsoft.extensions.dependencyinjection/5.0.2/microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "/Users/cbehrends/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/5.0.0/microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "/Users/cbehrends/.nuget/packages/microsoft.extensions.logging/5.0.0/microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "/Users/cbehrends/.nuget/packages/microsoft.extensions.logging.abstractions/5.0.0/microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "/Users/cbehrends/.nuget/packages/microsoft.extensions.options/5.0.0/microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "/Users/cbehrends/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "/Users/cbehrends/.nuget/packages/system.collections.immutable/5.0.0/system.collections.immutable.5.0.0.nupkg.sha512",
+    "/Users/cbehrends/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "/Users/cbehrends/.nuget/packages/system.diagnostics.diagnosticsource/5.0.1/system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
